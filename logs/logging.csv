@@ -1,0 +1,188 @@
+09:02:59,Basisstation  is  starting
+09:03:17,Read  decode  error
+09:03:27,Read  decode  error
+09:03:40,Read  decode  error
+09:03:44,THERM200 ,Temperature ,14.13
+09:04:07,Read  decode  error
+09:04:11,Murata  soil  sensor ,Temperature ,18.31
+09:04:14,Murata  soil  sensor ,VWC ,17.40
+09:04:17,Murata  soil  sensor ,EC  bulk ,0.06
+09:04:20,Murata  soil  sensor ,EC  pore ,1.49
+09:04:29,Read  decode  error
+09:04:38,Read  decode  error
+09:04:51,Read  decode  error
+09:04:55,THERM200 ,Temperature ,16.33
+09:05:06,Read  decode  error
+09:05:10,VH400 ,VWC ,100.00
+09:05:31,Read  decode  error
+09:05:45,Read  decode  error
+09:05:57,Read  decode  error
+09:06:02,THERM200 ,Temperature ,16.21
+09:06:24,Read  decode  error
+09:06:29,Murata  soil  sensor ,Temperature ,18.44
+09:06:32,Murata  soil  sensor ,VWC ,17.30
+09:06:35,Murata  soil  sensor ,EC  bulk ,0.06
+09:06:38,Murata  soil  sensor ,EC  pore ,1.49
+09:06:44,Read  decode  error
+09:06:54,Read  decode  error
+09:07:13,Read  decode  error
+09:07:17,THERM200 ,Temperature ,15.96
+09:07:20,VH400 ,VWC ,100.00
+09:07:44,Read  decode  error
+09:08:18,THERM200 ,Temperature ,15.72
+09:08:41,Read  decode  error
+09:08:45,Murata  soil  sensor ,Temperature ,18.56
+09:08:48,Murata  soil  sensor ,VWC ,17.30
+09:08:51,Murata  soil  sensor ,EC  bulk ,0.06
+09:08:54,Murata  soil  sensor ,EC  pore ,1.49
+09:09:00,Read  decode  error
+09:09:07,Read  decode  error
+09:09:10,Read  decode  error
+09:09:33,VH400 ,VWC ,100.00
+09:09:36,THERM200 ,Temperature ,16.33
+09:10:25,Basisstation  is  starting
+09:10:37,THERM200 ,Temperature ,16.21
+09:11:05,Murata  soil  sensor ,Temperature ,18.62
+09:11:08,Murata  soil  sensor ,VWC ,17.40
+09:11:10,Murata  soil  sensor ,EC  bulk ,0.06
+09:11:14,Murata  soil  sensor ,EC  pore ,1.47
+09:11:42,VH400 ,VWC ,100.00
+09:11:45,THERM200 ,Temperature ,15.72
+09:12:47,THERM200 ,Temperature ,16.33
+09:13:23,Murata  soil  sensor ,Temperature ,18.69
+09:13:26,Murata  soil  sensor ,VWC ,17.30
+09:13:29,Murata  soil  sensor ,EC  bulk ,0.06
+09:13:32,Murata  soil  sensor ,EC  pore ,1.48
+09:26:07,Basisstation  is  starting
+09:26:22,THERM200 ,Temperature ,15.96
+09:27:04,Murata  soil  sensor ,Temperature ,19.12
+09:27:07,Murata  soil  sensor ,VWC ,16.70
+09:27:10,Murata  soil  sensor ,EC  bulk ,0.05
+09:27:13,Murata  soil  sensor ,EC  pore ,1.54
+09:27:34,VH400 ,VWC ,100.00
+09:27:37,THERM200 ,Temperature ,15.96
+09:28:39,THERM200 ,Temperature ,16.21
+09:29:21,Murata  soil  sensor ,Temperature ,19.19
+09:29:24,Murata  soil  sensor ,VWC ,17.00
+09:29:27,Murata  soil  sensor ,EC  bulk ,0.05
+09:29:30,Murata  soil  sensor ,EC  pore ,1.49
+09:29:51,VH400 ,VWC ,100.00
+09:29:54,THERM200 ,Temperature ,16.70
+09:31:40,VH400 ,VWC ,100.00
+09:31:43,THERM200 ,Temperature ,17.92
+09:31:46,Murata  soil  sensor ,Temperature ,19.19
+09:31:49,Murata  soil  sensor ,VWC ,17.80
+09:31:52,Murata  soil  sensor ,EC  bulk ,0.05
+09:31:55,Murata  soil  sensor ,EC  pore ,1.38
+09:32:29,THERM200 ,Temperature ,17.55
+09:33:21,VH400 ,VWC ,100.00
+09:33:36,THERM200 ,Temperature ,16.57
+09:34:03,Murata  soil  sensor ,Temperature ,19.31
+09:34:06,Murata  soil  sensor ,VWC ,17.50
+09:34:09,Murata  soil  sensor ,EC  bulk ,0.05
+09:34:12,Murata  soil  sensor ,EC  pore ,1.42
+09:34:46,THERM200 ,Temperature ,18.04
+09:35:31,VH400 ,VWC ,100.00
+09:35:55,THERM200 ,Temperature ,17.80
+09:36:22,Murata  soil  sensor ,Temperature ,19.37
+09:36:25,Murata  soil  sensor ,VWC ,17.40
+09:36:28,Murata  soil  sensor ,EC  bulk ,0.05
+09:36:31,Murata  soil  sensor ,EC  pore ,1.43
+09:37:05,THERM200 ,Temperature ,17.92
+09:37:36,VH400 ,VWC ,100.00
+09:38:16,THERM200 ,Temperature ,17.80
+09:38:42,Murata  soil  sensor ,Temperature ,19.44
+09:38:45,Murata  soil  sensor ,VWC ,17.30
+09:38:48,Murata  soil  sensor ,EC  bulk ,0.05
+09:38:51,Murata  soil  sensor ,EC  pore ,1.45
+09:39:26,THERM200 ,Temperature ,17.67
+09:39:40,VH400 ,VWC ,100.00
+09:40:32,THERM200 ,Temperature ,18.04
+09:40:59,Murata  soil  sensor ,Temperature ,19.50
+09:41:02,Murata  soil  sensor ,VWC ,17.30
+09:41:05,Murata  soil  sensor ,EC  bulk ,0.05
+09:41:08,Murata  soil  sensor ,EC  pore ,1.44
+09:41:48,THERM200 ,Temperature ,17.92
+09:41:51,VH400 ,VWC ,100.00
+09:42:48,THERM200 ,Temperature ,18.04
+09:43:16,Murata  soil  sensor ,Temperature ,19.50
+09:43:18,Murata  soil  sensor ,VWC ,17.40
+09:43:21,Murata  soil  sensor ,EC  bulk ,0.05
+09:43:24,Murata  soil  sensor ,EC  pore ,1.40
+09:44:04,VH400 ,VWC ,100.00
+09:44:07,THERM200 ,Temperature ,17.80
+09:45:08,THERM200 ,Temperature ,17.67
+09:45:35,Murata  soil  sensor ,Temperature ,19.56
+09:45:38,Murata  soil  sensor ,VWC ,17.50
+09:45:40,Murata  soil  sensor ,EC  bulk ,0.05
+09:45:44,Murata  soil  sensor ,EC  pore ,1.41
+09:46:13,VH400 ,VWC ,100.00
+09:46:16,THERM200 ,Temperature ,17.80
+09:47:17,THERM200 ,Temperature ,18.04
+09:47:54,Murata  soil  sensor ,Temperature ,19.62
+09:47:57,Murata  soil  sensor ,VWC ,17.40
+09:48:00,Murata  soil  sensor ,EC  bulk ,0.05
+09:48:03,Murata  soil  sensor ,EC  pore ,1.42
+09:48:24,VH400 ,VWC ,100.00
+09:48:27,THERM200 ,Temperature ,17.92
+09:49:28,THERM200 ,Temperature ,17.92
+09:50:11,Murata  soil  sensor ,Temperature ,19.69
+09:50:14,Murata  soil  sensor ,VWC ,17.40
+09:50:17,Murata  soil  sensor ,EC  bulk ,0.05
+09:50:20,Murata  soil  sensor ,EC  pore ,1.42
+09:50:41,VH400 ,VWC ,100.00
+09:50:44,THERM200 ,Temperature ,17.67
+09:51:46,THERM200 ,Temperature ,17.80
+09:52:27,Murata  soil  sensor ,Temperature ,19.75
+09:52:30,Murata  soil  sensor ,VWC ,17.30
+09:52:33,Murata  soil  sensor ,EC  bulk ,0.05
+09:52:36,Murata  soil  sensor ,EC  pore ,1.45
+09:52:57,VH400 ,VWC ,100.00
+09:53:00,THERM200 ,Temperature ,17.55
+09:54:02,THERM200 ,Temperature ,17.80
+09:54:44,Murata  soil  sensor ,Temperature ,19.81
+09:54:47,Murata  soil  sensor ,VWC ,17.20
+09:54:50,Murata  soil  sensor ,EC  bulk ,0.05
+09:54:53,Murata  soil  sensor ,EC  pore ,1.46
+09:55:14,VH400 ,VWC ,100.00
+09:55:17,THERM200 ,Temperature ,14.74
+09:56:18,THERM200 ,Temperature ,15.23
+09:57:00,Murata  soil  sensor ,Temperature ,19.81
+09:57:03,Murata  soil  sensor ,VWC ,17.20
+09:57:06,Murata  soil  sensor ,EC  bulk ,0.05
+09:57:09,Murata  soil  sensor ,EC  pore ,1.47
+09:57:30,VH400 ,VWC ,100.00
+09:57:33,THERM200 ,Temperature ,13.40
+09:58:35,THERM200 ,Temperature ,12.79
+09:59:17,Murata  soil  sensor ,Temperature ,19.87
+09:59:20,Murata  soil  sensor ,VWC ,17.20
+09:59:23,Murata  soil  sensor ,EC  bulk ,0.05
+09:59:26,Murata  soil  sensor ,EC  pore ,1.46
+09:59:47,VH400 ,VWC ,100.00
+09:59:50,THERM200 ,Temperature ,13.40
+10:00:52,THERM200 ,Temperature ,14.01
+10:01:34,Murata  soil  sensor ,Temperature ,19.94
+10:01:37,Murata  soil  sensor ,VWC ,17.20
+10:01:39,Murata  soil  sensor ,EC  bulk ,0.05
+10:01:43,Murata  soil  sensor ,EC  pore ,1.46
+10:02:04,VH400 ,VWC ,100.00
+10:02:07,THERM200 ,Temperature ,13.52
+10:03:08,THERM200 ,Temperature ,14.01
+10:03:50,Murata  soil  sensor ,Temperature ,20.00
+10:03:53,Murata  soil  sensor ,VWC ,17.20
+10:03:56,Murata  soil  sensor ,EC  bulk ,0.05
+10:03:59,Murata  soil  sensor ,EC  pore ,1.45
+10:04:20,VH400 ,VWC ,100.00
+10:04:23,THERM200 ,Temperature ,15.11
+10:05:25,THERM200 ,Temperature ,13.89
+10:06:07,Murata  soil  sensor ,Temperature ,20.06
+10:06:10,Murata  soil  sensor ,VWC ,17.20
+10:06:13,Murata  soil  sensor ,EC  bulk ,0.05
+10:06:16,Murata  soil  sensor ,EC  pore ,1.46
+10:06:36,VH400 ,VWC ,100.00
+10:06:39,THERM200 ,Temperature ,14.37
+10:07:42,THERM200 ,Temperature ,14.50
+10:08:24,Murata  soil  sensor ,Temperature ,20.06
+10:08:27,Murata  soil  sensor ,VWC ,17.10
+10:08:30,Murata  soil  sensor ,EC  bulk ,0.05
+10:08:33,Murata  soil  sensor ,EC  pore ,1.47
